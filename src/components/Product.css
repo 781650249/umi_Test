@@ -1,0 +1,14 @@
+.Btn {
+
+    width: 100%;
+    text-align: center;
+    border: none;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+
+}
+
+.Btn:hover {
+    background-color: #eabf00;
+}
